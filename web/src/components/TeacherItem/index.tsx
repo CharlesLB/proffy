@@ -10,12 +10,12 @@ interface Props {
     pricePerHour: string;
 }
 
-const TeacherItem: React.FC<Props> = (props) =>  {
+const TeacherItem: React.FC<Props> = (props) => {
     return (
         <article className="teacher-item">
             <header>
                 <img
-                    src={`https://api.adorable.io/avatars/81/${props.name}.png`}    
+                    src={`https://api.adorable.io/avatars/81/${props.name}.png`}
                     alt="Professor"
                 />
                 <div>
@@ -24,9 +24,7 @@ const TeacherItem: React.FC<Props> = (props) =>  {
                 </div>
             </header>
 
-            <p>
-                {props.description}
-            </p>
+            <p>{props.description}</p>
 
             <footer>
                 <p>
@@ -40,6 +38,6 @@ const TeacherItem: React.FC<Props> = (props) =>  {
             </footer>
         </article>
     );
-}
+};
 
 export default TeacherItem;

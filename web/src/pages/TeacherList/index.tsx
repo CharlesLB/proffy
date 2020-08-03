@@ -47,6 +47,6 @@ const TeacherList: React.FC = () => {
             </main>
         </div>
     );
-}
+};
 
 export default TeacherList;
