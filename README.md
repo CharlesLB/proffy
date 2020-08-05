@@ -1,7 +1,5 @@
 <h3 align="center">
     <img alt="Logo" title="#logo" width="300px" src="./.github/home.svg">
-    <br><br>
-    <b>Recicle! ajude o meio ambiente!</b> 
 </h3>
 
 <p align="center">
@@ -19,7 +17,7 @@
 
 ## :bookmark: Sobre
 
-O <strong>PRoffy</strong> é uma aplicação Web e Mobile para aulas online feita atravez da Next Level Week, administrada pela RockeatSeat.
+O <strong>Proffy</strong> é uma aplicação Web e Mobile para aulas online feita atravez da Next Level Week, administrada pela RockeatSeat.
 
 <a id="documentacao"></a>
 
