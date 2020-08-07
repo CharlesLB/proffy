@@ -53,12 +53,11 @@ function StudyTabs() {
                     },
                 }}
             />
-
             <Screen
                 name="Favorites"
                 component={Favorites}
                 options={{
-                    tabBarLabel: "Favoritos",
+                    tabBarLabel: "Favorites",
                     tabBarIcon: ({ color, size, focused }) => {
                         return (
                             <Ionicons
